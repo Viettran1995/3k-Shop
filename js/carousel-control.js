@@ -1,0 +1,110 @@
+// JavaScript Document
+$('#sp-headphone').owlCarousel({
+    loop:true,
+    margin:10,
+    nav:true,
+	autoplay:true,
+	dots:false,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:2
+        },
+        1000:{
+            items:3
+        }
+    }
+})
+$('#sp-speaker').owlCarousel({
+    loop:true,
+    margin:10,
+    nav:true,
+	autoplay:true,
+	dots:false,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:2
+        },
+        1000:{
+            items:3
+        }
+    }
+})
+$('#sp-acess').owlCarousel({
+    loop:true,
+    margin:10,
+    nav:true,
+	autoplay:true,
+	dots:false,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:2
+        },
+        1000:{
+            items:3
+        }
+    }
+})
+
+$('#sp-hifiman').owlCarousel({
+    loop:true,
+    margin:10,
+    nav:true,
+	autoplay:true,
+	dots:false,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:2
+        },
+        1000:{
+            items:3
+        }
+    }
+})
+$('#sp-marshall').owlCarousel({
+    loop:true,
+    margin:10,
+    nav:true,
+	autoplay:true,
+	dots:false,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:2
+        },
+        1000:{
+            items:3
+        }
+    }
+})
+$('#sp-sennheiser').owlCarousel({
+    loop:true,
+    margin:10,
+    nav:true,
+	autoplay:true,
+	dots:false,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:2
+        },
+        1000:{
+            items:3
+        }
+    }
+})
